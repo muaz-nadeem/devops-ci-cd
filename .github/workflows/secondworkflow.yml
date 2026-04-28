@@ -23,5 +23,5 @@ jobs:
     steps:
       - name: Echo any text using echo bash command
         run: echo "Hi class, hope you all had a good mid semester break"
- ...
+...
 
